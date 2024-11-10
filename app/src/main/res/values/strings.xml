@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Task1</string>
+    <string name="title">Meme App</string>
+    <string name="my_age_is_21">my age is 21</string>
+    <string name="my_name_is_magy_osman">my name is magy osman</string>
+    <string name="my_age_is_22">my age is 21</string>
+    <string name="my_name_is_nagy_osman">my name is nagy osman</string>
 </resources>
