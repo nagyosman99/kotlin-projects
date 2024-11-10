@@ -20,7 +20,7 @@
 
     <ImageView
 
-        android:layout_width="wrap_content  "
+        android:layout_width="wrap_content"
         android:layout_height="300dp"
         adroid:scaleType="fitXY"
         app:srcCompat="@drawable/photo1"
@@ -30,7 +30,7 @@
 
     <ImageView
 
-        android:layout_width="wrap_content "
+        android:layout_width="wrap_content"
         android:layout_height="400dp"
         adroid:scaleType="fitXY"
         app:srcCompat="@drawable/img_1"
